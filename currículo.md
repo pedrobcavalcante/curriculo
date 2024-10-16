@@ -34,7 +34,7 @@ Desenvolvi aplicações internas **Fullstack** utilizando **ASP.NET Core** e **R
 
 **Cargo:** Desenvolvedor FullStack Junior
 
-Fui responsável pela implementação e integração da **Salesforce** com sistemas internos utilizando **Python** para a Fortbrasil. Também participei da migração de sistemas legados para **Flutter** e contribuí no desenvolvimento de aplicações front-end com **Angular** e **React.JS**, aplicando **Clean Architecture** e **gerenciamento de estado (Bloc)**.
+Fui responsável pela implementação e integração da **Salesforce** com sistemas internos utilizando **Python** para a Fortbrasil. Também participei da migração de sistemas legados para **Flutter** e contribuí no desenvolvimento de aplicações front-end com **Angular** e **React.JS**, aplicando **Clean Architecture** e **Solid**.
 
 ---
 
